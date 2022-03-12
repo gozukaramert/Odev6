@@ -1,0 +1,122 @@
+body {
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+/******************** Header kısmı ********************/
+
+.ust {
+
+    height: 30px;
+    width: 30px;
+    float: right;
+    padding: 10px;
+    text-align: center;  
+}
+.link {
+    float: right;
+    height: 30px;
+    width: 150px;
+    padding-top: 15px;
+    text-align: center;
+
+}
+.linkici{
+    font-size: 14px;
+}
+
+
+.profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 30px;
+}
+.google {
+    width: 40px;
+}
+
+.clear {
+    clear: both;
+}
+
+/* Header bitti */
+/******************** Main ********************/
+
+.googlepic {
+    width: 270px;
+}
+.orta {
+    padding-top: 140px;
+}
+article {
+    text-align: center;
+}
+.input {
+    padding-top: 10px;
+    height: 30px;
+    width: 250px; 
+    border-width : 0px ;
+    background-color: #f2f2f2; 
+    margin: auto;
+    text-align: center;
+
+    border-width : 0px ; background-color: white; 
+}
+.abc {
+    background-color: #F8F9FA;
+     border-width: 0;
+     height: 30px;
+     border-radius: 5px;
+}
+.ozel{
+
+    width: 480px;
+    height: 41px;
+    border-radius: 20px;
+    padding: auto;
+    margin: auto;
+}
+.ortali {
+    margin: auto;
+    padding: auto;
+}
+.shadow1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+/* Main Bitti */
+/******************** Footer ********************/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    float: left;
+  }
+  
+footer a {
+    display: block;
+    padding: 8px;
+   
+  }
+
+.footersol {
+    height: 40px;
+
+    float: left;
+}
+.footersag {
+    height: 40px;
+
+    float: right;
+    
+}
+
+.footerson {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
